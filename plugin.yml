@@ -1,0 +1,9 @@
+name: discord
+version: '1.0'
+main: de.leonfoundU.discord.discord;
+api-version: '1.21'
+
+commands:
+  discord:
+    description: discord command
+    aliases:
